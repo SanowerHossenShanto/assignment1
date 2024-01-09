@@ -83,103 +83,230 @@
     height: 500px;
 
 }
-.img2{
-    width: 31.398px;
-height: 180.595px;
-flex-shrink: 0;
-fill: linear-gradient(174deg, #F2D977 -10.63%, #E8CB65 -5.19%, #DAB74C 2.97%, #D2AB3D 11.13%, #CFA738 17.93%, #E1C863 35.6%, #FFA 65.51%, #FEFBA5 70.95%, #FAF096 79.11%, #F3DD7D 87.26%, #EAC45A 96.78%, #E1AB39 103.58%, #D7A136 110.38%, #BD882D 119.89%, #AC7828 125.33%);
+
+.img2 {
+    width: 319.83px;
+    height: 485.571px;
+    margin: 70px 140px 0px 39px;
+
+
+}
+
+.di {
+    display: inline;
 }
 
 .bc {
-    background-image:linear-gradient(180deg, #000000 0%, rgba(22, 4, 59, 0) 100%), url(resources/Vectorrr.png);
+    background-image: linear-gradient(180deg, #000000 0%, rgba(22, 4, 59, 0) 100%), url(resources/Vectorrr.png);
     background-repeat: no-repeat;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    border-radius: 15px;
+
+
+}
+
+#wlc {
+    width: 642px;
+    height: 183.92px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+
+    font-weight: 900;
+
+    letter-spacing: 7.04px;
+    padding: 132px 552px 25px 126px;
+}
+
+#wlt {
+    width: 697px;
+    height: 62.7px;
+    flex-shrink: 0;
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+
+    font-weight: 400;
+    line-height: 30px;
+    padding: 0px 497px 50px 126px;
+}
+
+#jn {
+    width: 103px;
+    height: 25.08px;
+
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+
+    padding: 50px 600px 148px 180px;
+}
+
+
+#cl {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+
+    font-weight: 500;
+
+}
+
+.jnsec {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+
+    font-weight: 600;
+
+    text-transform: capitalize;
+}
+
+.jntext {
+    color: #070211;
+    font-family: Inter;
+    font-size: 32px;
+
+    font-weight: 600;
+
+    padding: 100px 200px 48px 300px;
+    background-color: rgba(255, 0, 0, 0.10);
     margin: 140px;
 
 }
-#wlc{
-    width: 642px;
-height: 183.92px;
-flex-shrink: 0;
-color: #FFF;
-font-family: Merriweather;
-font-size: 64px;
 
-font-weight: 900;
-
-letter-spacing: 7.04px;
-padding: 132px 552px 25px 126px ;
+.aln {
+    text-align: center;
 }
-#wlt{
-    width: 697px;
-height: 62.7px;
-flex-shrink: 0;
-color: rgba(255, 255, 255, 0.80);
-font-family: Inter;
-font-size: 18px;
 
-font-weight: 400;
-line-height: 30px; 
-padding: 0px 497px 50px 126px;
+.btn {
+    width: 150px;
+    height: 65px;
+    margin: 10px 45% 10px 40%;
+    border-radius: 8px;
+    background-color: #f00;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+
+    font-weight: 700;
+
+
 }
-#jn{
-    width: 103px;
-height: 25.08px;
+#pd{
+    margin:20px 140px 20px 140px;
+}
+.pd2{
+padding:5px 70px 1000px 1px;
+}
 
-color: #FFF;
-text-align: center;
+.elsp{
+    width: 364.844px;
+height: 364.844px;
+
+border-radius: 364.844px;
+border-color: #F00;
+}
+.rt2{
+    color: #F00;
+
 font-family: Inter;
-font-size: 20px;
+font-size: 48px;
 font-style: normal;
 font-weight: 700;
-
-padding:50px 600px 148px 180px;
+line-height: normal;
+margin-left: 103px;
 }
-
-
-#cl{
+#rt{
     color: #F00;
+
 font-family: Inter;
 font-size: 24px;
 
 font-weight: 500;
 
+
 }
-.pf{
+#btext{
     color: #070211;
 font-family: Merriweather;
 font-size: 48px;
 
 font-weight: 900;
+width: auto;
 
 
 }
-#pt{
+#bstext{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+
+font-weight: 300px;
+
+}
+.dtx{
     color: rgba(7, 2, 17, 0.60);
 font-family: Inter;
 font-size: 20px;
 
 font-weight: 400;
-line-height: 32px;
+line-height: 32px; 
 }
-.imgsize{
-    width: 424px;
-height: 450px;
-flex-shrink: 0;
-border-radius: 16px;
-background: lightgray 0px -35.755px / 100% 142.115% no-repeat;
-box-shadow: rgb(40, 51, 51);
-margin: 15px;
+.dtx2{
+    width: 140px;
+height: 140px;
+padding-top: 43;
+padding-left: 118;
+}
+
+.pf {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+
+    font-weight: 900;
+
 
 }
-.pd{
+
+#pt {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.imgsize {
+    width: 424px;
+    height: 450px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    background: lightgray 0px -35.755px / 100% 142.115% no-repeat;
+    box-shadow: rgb(40, 51, 51);
+    margin: 15px;
+
+}
+
+.pd {
     margin: 22px 586px 0px 0px;
 }
 
-#fx{
+#fx {
     display: flex;
 }
 
-    
+
 
 
 
