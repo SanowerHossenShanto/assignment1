@@ -297,12 +297,51 @@ line-height: normal;
 text-align: center;
 font-family: Inter;
 font-size: 20px;
-font-style: normal;
+margin-left: 140px;
+margin-right: 140px;
+
 font-weight: 500;
 line-height: 32px;
 width: 1068px;
 }
+.boximg{
+    width: 350px;
+height: 350px;
+flex-shrink: 0;
+}
+#pos{
+    margin:300px 0px 0px 140px  ;
+}
+#pos1{
 
+    margin: 100px 0px  100px 0px ;
+}
+#pos2{
+    margin:100px 0px 100px 0px;
+}
+.boscrc{
+    width: 206.841px;
+height: 206.841px;
+flex-shrink: 0;
+position: absolute;
+margin-left: 500px;
+
+}
+.gimg{
+    width: 429px;
+height: 433px;
+flex-shrink: 0;
+border-radius: 16px 16px 0px 0px;
+background:lightgray -59.98px 0px / 151.553% 100% no-repeat;
+
+}
+
+#rectg{
+    width: 1320px;
+height: 150px;
+border-radius: 10px;
+
+}
 
 .pf {
     color: #070211;
